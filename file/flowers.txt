@@ -1,0 +1,16 @@
+Rose;100
+Rose;100
+Chamomile;70
+Tulip;45
+Tulip;45
+Rose;100
+Chamomile;70
+Tulip;45
+Rose;100
+Tulip;45
+Rose;100
+Tulip;45
+Rose;100
+Tulip;45
+Tulip;45
+Tulip;45
